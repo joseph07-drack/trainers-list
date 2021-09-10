@@ -5,7 +5,7 @@ import Trainer from './Trainer'
 import TrainersForm from './TrainersForm'
 
 class App extends React.Component {
-  title = "LIST OF CLIENTS";
+  title = "LIST OF TRAINERS";
  
   //list of current clients
   state = {
